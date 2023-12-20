@@ -1,0 +1,3 @@
+0, Emil , num , adress
+1, Donald , num , adress
+2, Esengeldi, num , adress

@@ -1,0 +1,5 @@
+0,water,10
+1,tea,15
+2,apple,35
+3,yogurt,20
+4,cola,25
